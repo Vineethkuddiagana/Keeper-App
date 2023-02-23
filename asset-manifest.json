@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "https://vineethkuddiagana.github.io/csb-ck9xjm/static/js/main.21a03557.chunk.js",
-    "main.js.map": "https://vineethkuddiagana.github.io/csb-ck9xjm/static/js/main.21a03557.chunk.js.map",
-    "runtime-main.js": "https://vineethkuddiagana.github.io/csb-ck9xjm/static/js/runtime-main.5e9a8167.js",
-    "runtime-main.js.map": "https://vineethkuddiagana.github.io/csb-ck9xjm/static/js/runtime-main.5e9a8167.js.map",
-    "static/js/2.0d89017b.chunk.js": "https://vineethkuddiagana.github.io/csb-ck9xjm/static/js/2.0d89017b.chunk.js",
-    "static/js/2.0d89017b.chunk.js.map": "https://vineethkuddiagana.github.io/csb-ck9xjm/static/js/2.0d89017b.chunk.js.map",
-    "index.html": "https://vineethkuddiagana.github.io/csb-ck9xjm/index.html",
-    "precache-manifest.3e11af9e32054ec2cd5d153e4496a239.js": "https://vineethkuddiagana.github.io/csb-ck9xjm/precache-manifest.3e11af9e32054ec2cd5d153e4496a239.js",
-    "service-worker.js": "https://vineethkuddiagana.github.io/csb-ck9xjm/service-worker.js"
+    "main.js": "https://.github.io/csb-ck9xjm/static/js/main.2bfa2cbb.chunk.js",
+    "main.js.map": "https://.github.io/csb-ck9xjm/static/js/main.2bfa2cbb.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-ck9xjm/static/js/runtime-main.a34fb373.js",
+    "runtime-main.js.map": "https://.github.io/csb-ck9xjm/static/js/runtime-main.a34fb373.js.map",
+    "static/js/2.0d89017b.chunk.js": "https://.github.io/csb-ck9xjm/static/js/2.0d89017b.chunk.js",
+    "static/js/2.0d89017b.chunk.js.map": "https://.github.io/csb-ck9xjm/static/js/2.0d89017b.chunk.js.map",
+    "index.html": "https://.github.io/csb-ck9xjm/index.html",
+    "precache-manifest.e0d86e285ab8449edbb3a89f62853f8a.js": "https://.github.io/csb-ck9xjm/precache-manifest.e0d86e285ab8449edbb3a89f62853f8a.js",
+    "service-worker.js": "https://.github.io/csb-ck9xjm/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e9a8167.js",
+    "static/js/runtime-main.a34fb373.js",
     "static/js/2.0d89017b.chunk.js",
-    "static/js/main.21a03557.chunk.js"
+    "static/js/main.2bfa2cbb.chunk.js"
   ]
 }
